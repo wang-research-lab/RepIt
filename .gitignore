@@ -1,0 +1,10 @@
+pipeline/runs
+**/__pycache__/
+pipeline/RepIt
+pipeline/RepIt.tar.gz
+plots
+tables
+dataset/split_jailbreakv.py
+dataset/*WMDP*
+dataset/splits/*wmd*
+plotting
